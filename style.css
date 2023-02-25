@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.boom {
+  background-color: brown;
+  padding: 40px;
+  margin-left: 600px;
+  margin-top: 300px;
+  width: 50px;
+}
